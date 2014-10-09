@@ -1,4 +1,4 @@
-arcproject
+ARC project
 ==========
 
 Python code for the ARC extinct language project.  
